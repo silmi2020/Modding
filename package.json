@@ -1,0 +1,21 @@
+{
+  "name": "naruto-storm-modding-academy",
+  "version": "4.0.0",
+  "private": true,
+  "description": "Naruto Storm 4 & Storm Connections Manual Modding Academy, Mastermind AI Agent Modder & Reverse Engineer Anything Studio (Ready for Vercel)",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'Static & Serverless bundle ready for Vercel'"
+  },
+  "keywords": [
+    "naruto-storm-4",
+    "storm-connections",
+    "modding",
+    "xfbin",
+    "nsc-toolbox",
+    "vercel"
+  ],
+  "author": "Shinobi Mastermind Modding Studio",
+  "license": "MIT"
+}
